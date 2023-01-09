@@ -1,0 +1,6 @@
+**.*
+!utils/*
+!Pipfile
+!root_convert.py
+!README.md
+!.gitignore

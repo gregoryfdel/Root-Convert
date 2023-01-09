@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+dateutils = "*"
+numpy = "*"
+pandas = "*"
+fastparquet = "*"
+pyarrow = "*"
+awkward = "*"
+uproot = "*"
+tables = "*"
+duckdb = "*"
+
+[dev-packages]
+
+[requires]
